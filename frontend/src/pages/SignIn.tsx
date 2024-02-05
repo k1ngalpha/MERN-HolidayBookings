@@ -69,7 +69,7 @@ const SignIn = () => {
         <span className="text-sm">
           Not Registered?{" "}
           <Link to="/register" className="text-blue-800 font-bold">
-            Create and account here
+            Create an account here
           </Link>
         </span>
         <button
